@@ -1,2 +1,2 @@
 # DataScience
-Assignments - Labs - Quizzes ( Anything related to this Course )
+Assignments - Labs - Final Project ( Anything related to this Course )
